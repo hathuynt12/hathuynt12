@@ -46,8 +46,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhaclairent&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hathuynt12&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhaclairent&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hathuynt12&layout=compact&theme=radical" alt="top langs" />
 </p>
