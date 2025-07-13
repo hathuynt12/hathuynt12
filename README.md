@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer | ETL Developer with Oracle Experience |AWS & Big Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenhaclairent&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenhaclairent" />
+  <img src="https://komarev.com/ghpvc/?username=hathuynt12&label=Profile%20views&color=0e75b6&style=flat" alt="hathuynt12" />
 </p>
 
 ---
