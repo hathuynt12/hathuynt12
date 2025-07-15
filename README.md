@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hà Thủy Nguyễn (Claire)</h1>
+<h1 align="center">Hi 👋, I'm Ha Thuy Nguyen (Claire)</h1>
 <h3 align="center">Data Engineer | ETL Developer with Oracle Experience |AWS & Big Data Enthusiast</h3>
 
 <p align="center">
