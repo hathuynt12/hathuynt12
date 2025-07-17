@@ -33,14 +33,35 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+  <!-- Oracle -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
+
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+
+  <!-- AWS (fixed SVG source) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+
+  <!-- Apache -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40"/>
+
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+  <!-- Power BI (custom, không có icon chính thức từ devicon) -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
+
+  <!-- SSMS (SQL Server logo) -->
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40" alt="SSMS"/>
+
 </p>
+
 
 ---
 
